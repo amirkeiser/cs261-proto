@@ -199,7 +199,7 @@ dist
 implementation-plan.md
 overview.md
 project-specification.md
-requirements-and-design-report-spec.md
+requirement-and-design-report-spec.md
 
 ### Node Patch ###
 # Serverless Webpack directories
